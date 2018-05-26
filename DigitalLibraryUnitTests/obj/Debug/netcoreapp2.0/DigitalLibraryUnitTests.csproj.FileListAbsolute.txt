@@ -1,0 +1,17 @@
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\bin\Debug\netcoreapp2.0\DigitalLibraryUnitTests.deps.json
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\bin\Debug\netcoreapp2.0\DigitalLibraryUnitTests.runtimeconfig.json
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\bin\Debug\netcoreapp2.0\DigitalLibraryUnitTests.runtimeconfig.dev.json
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\bin\Debug\netcoreapp2.0\DigitalLibraryUnitTests.dll
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\bin\Debug\netcoreapp2.0\DigitalLibraryUnitTests.pdb
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\bin\Debug\netcoreapp2.0\DigitalLibraryApplication.dll
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\bin\Debug\netcoreapp2.0\DigitalLibraryApplication.pdb
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\obj\Debug\netcoreapp2.0\DigitalLibraryUnitTests.csprojResolveAssemblyReference.cache
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\obj\Debug\netcoreapp2.0\DigitalLibraryUnitTests.csproj.CoreCompileInputs.cache
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\obj\Debug\netcoreapp2.0\DigitalLibraryUnitTests.AssemblyInfoInputs.cache
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\obj\Debug\netcoreapp2.0\DigitalLibraryUnitTests.AssemblyInfo.cs
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\obj\Debug\netcoreapp2.0\DigitalLibraryUnitTests.csproj.CopyComplete
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\obj\Debug\netcoreapp2.0\DigitalLibraryUnitTests.dll
+D:\Packt\MVC TDD\Code\TravisCI\MVCTutorial\DigitalLibraryUnitTests\obj\Debug\netcoreapp2.0\DigitalLibraryUnitTests.pdb
