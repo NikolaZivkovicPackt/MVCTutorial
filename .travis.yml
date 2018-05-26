@@ -8,4 +8,4 @@ install:
     - dotnet restore
 script:
     - dotnet build
-    - dotnet test ./DigitalLibraryApplication/DigitalLibraryApplication/DigitalLibraryUnitTests/DigitalLibraryUnitTests.csproj
+    - dotnet test ./DigitalLibraryUnitTests/DigitalLibraryUnitTests.csproj
