@@ -1,2 +1,11 @@
 language: csharp
-solution: DigitalLibraryApplication.sln
+solution: ./DigitalLibraryApplication/DigitalLibraryApplication.sln
+language: csharp
+dist: trusty
+mono: none
+dotnet: 2.0.0
+install:
+    - dotnet restore
+script:
+    - dotnet build
+    - dotnet test ./DigitalLibraryApplication/DigitalLibraryApplication/DigitalLibraryUnitTests/DigitalLibraryUnitTests.csproj
